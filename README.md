@@ -3,6 +3,9 @@
 This repository contains a containerized Python application that executes deterministically, computing a rolling mean and signal generation for cryptocurrency OHLCV data.
 
 ## 1. Setup Instructions
+
+It is very important to put the 'data.csv' in the project root directory.
+
 To set up the environment locally, install the required dependencies
 pip install -r requirements.txt
 
